@@ -21,6 +21,9 @@ A simple Shopping List application built with SwiftUI and SwiftData, demonstrati
 - **SwiftData** – Local persistence
 - **Combine** – Reactive state management
 - **Clean Code** – Single Responsibility, meaningful naming, small functions
+
+```text
+
 ShoppingList/
 ├── Models/
 │ └── ShoppingItem.swift # Data model
