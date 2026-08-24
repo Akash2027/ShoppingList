@@ -38,7 +38,7 @@ ShoppingList/
 ├── ShoppingItemTests.swift
 └── ShoppingListViewModelTests.swift
 
-
+```
 ---
 
 ## 🛠️ Engineering Practices Applied
